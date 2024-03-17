@@ -1,0 +1,1878 @@
+fileFormatVersion: 2
+guid: 195db2d87ae6ecf4caef2f10317f7e39
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1496664481522749700
+    second: darkblueGUI_0
+  - first:
+      213: 802753105717278912
+    second: darkblueGUI_1
+  - first:
+      213: -4532888728360278908
+    second: darkblueGUI_2
+  - first:
+      213: 7361534528547650502
+    second: darkblueGUI_3
+  - first:
+      213: -3934001502679866355
+    second: darkblueGUI_4
+  - first:
+      213: -5681341101539892662
+    second: darkblueGUI_5
+  - first:
+      213: 6138418534409450544
+    second: darkblueGUI_6
+  - first:
+      213: -5236135030923355854
+    second: darkblueGUI_7
+  - first:
+      213: 5342058835986240642
+    second: darkblueGUI_8
+  - first:
+      213: 6022993778297867190
+    second: darkblueGUI_9
+  - first:
+      213: -7495928152958323556
+    second: darkblueGUI_10
+  - first:
+      213: 8301984231849386938
+    second: darkblueGUI_11
+  - first:
+      213: 8766695448224802457
+    second: darkblueGUI_12
+  - first:
+      213: -1817200657499326407
+    second: darkblueGUI_13
+  - first:
+      213: -7933837558405639089
+    second: darkblueGUI_14
+  - first:
+      213: -980720045997060217
+    second: darkblueGUI_15
+  - first:
+      213: -1178443407121145485
+    second: darkblueGUI_16
+  - first:
+      213: -3357320715736626771
+    second: darkblueGUI_17
+  - first:
+      213: 524151363948586660
+    second: darkblueGUI_18
+  - first:
+      213: -7281891179335515582
+    second: darkblueGUI_19
+  - first:
+      213: 2319342469252018549
+    second: darkblueGUI_20
+  - first:
+      213: -8835703143617273183
+    second: darkblueGUI_21
+  - first:
+      213: -3287460547584675811
+    second: darkblueGUI_22
+  - first:
+      213: 5557112695683842978
+    second: darkblueGUI_23
+  - first:
+      213: 5991591378701497617
+    second: darkblueGUI_24
+  - first:
+      213: -6843729142112879598
+    second: darkblueGUI_25
+  - first:
+      213: -5624981231155295441
+    second: darkblueGUI_26
+  - first:
+      213: -1259932033234187548
+    second: darkblueGUI_27
+  - first:
+      213: -5091735468741126217
+    second: darkblueGUI_28
+  - first:
+      213: 5063939276314318544
+    second: darkblueGUI_29
+  - first:
+      213: 7380409372716174361
+    second: darkblueGUI_30
+  - first:
+      213: -4090852797399369929
+    second: darkblueGUI_31
+  - first:
+      213: -1270220738819605289
+    second: darkblueGUI_32
+  - first:
+      213: 3212107408767074079
+    second: darkblueGUI_33
+  - first:
+      213: -1697306899256719713
+    second: darkblueGUI_34
+  - first:
+      213: -7255509500039902056
+    second: darkblueGUI_35
+  - first:
+      213: -5056230599377361011
+    second: darkblueGUI_36
+  - first:
+      213: -7658912117743736174
+    second: darkblueGUI_37
+  - first:
+      213: 4267934909624701204
+    second: darkblueGUI_38
+  - first:
+      213: 8243546470766569783
+    second: darkblueGUI_39
+  - first:
+      213: -2053186043331741871
+    second: darkblueGUI_40
+  - first:
+      213: 1834356067477524644
+    second: darkblueGUI_41
+  - first:
+      213: -943579152165662147
+    second: darkblueGUI_42
+  - first:
+      213: 503533772954757299
+    second: darkblueGUI_43
+  - first:
+      213: -4019343318895456469
+    second: darkblueGUI_44
+  - first:
+      213: 8840432809975575477
+    second: darkblueGUI_45
+  - first:
+      213: 8242989560845987622
+    second: darkblueGUI_46
+  - first:
+      213: -9200759253981595254
+    second: darkblueGUI_47
+  - first:
+      213: -4637372750229162348
+    second: darkblueGUI_48
+  - first:
+      213: -8700541424627414200
+    second: darkblueGUI_49
+  - first:
+      213: 2638146948170076991
+    second: darkblueGUI_50
+  - first:
+      213: 4870362304271039279
+    second: darkblueGUI_51
+  - first:
+      213: -4754723347466999404
+    second: darkblueGUI_52
+  - first:
+      213: -4878014799883318346
+    second: darkblueGUI_53
+  - first:
+      213: 7879808876617960396
+    second: darkblueGUI_54
+  - first:
+      213: 6952659422319644239
+    second: darkblueGUI_55
+  - first:
+      213: -4046677299959631670
+    second: darkblueGUI_56
+  - first:
+      213: 8208735504084609891
+    second: darkblueGUI_57
+  - first:
+      213: 1301986374024423202
+    second: darkblueGUI_58
+  - first:
+      213: 8778774431656270410
+    second: darkblueGUI_59
+  - first:
+      213: 4794193640765460894
+    second: darkblueGUI_60
+  - first:
+      213: 2576543291299965712
+    second: darkblueGUI_61
+  - first:
+      213: -281048138677771812
+    second: darkblueGUI_62
+  - first:
+      213: -1401215460428450931
+    second: darkblueGUI_63
+  - first:
+      213: -2041178996957735050
+    second: darkblueGUI_64
+  - first:
+      213: -2295110261865385083
+    second: darkblueGUI_65
+  - first:
+      213: 6687742239428041352
+    second: darkblueGUI_66
+  - first:
+      213: -3621851117294164226
+    second: darkblueGUI_67
+  - first:
+      213: -479783426740639218
+    second: darkblueGUI_68
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: darkblueGUI_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1055
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4019b119a6835c410800000000000000
+      internalID: 1496664481522749700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1064
+        width: 54
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8be9c42b3f32b00800000000000000
+      internalID: 802753105717278912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_2
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1066
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484a6b3c7b1f711c0800000000000000
+      internalID: -4532888728360278908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1064
+        width: 58
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbfadf86ac692660800000000000000
+      internalID: 7361534528547650502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_4
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 996
+        width: 107
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04e9eef97e9769c0800000000000000
+      internalID: -3934001502679866355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_5
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 996
+        width: 107
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4263e28e52d721b0800000000000000
+      internalID: -5681341101539892662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_6
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 996
+        width: 108
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0343622622b003550800000000000000
+      internalID: 6138418534409450544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_7
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1011
+        width: 131
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23995dd7ee28557b0800000000000000
+      internalID: -5236135030923355854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_8
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 1011
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2845238353ec22a40800000000000000
+      internalID: 5342058835986240642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_9
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1053
+        width: 269
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb05df1ee8f59350800000000000000
+      internalID: 6022993778297867190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_10
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1053
+        width: 260
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94b11d5f0d19f790800000000000000
+      internalID: -7495928152958323556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_11
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1053
+        width: 260
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3e64e4ca2963370800000000000000
+      internalID: 8301984231849386938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_12
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 1097
+        width: 167
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996297def0f89a970800000000000000
+      internalID: 8766695448224802457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_13
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 1053
+        width: 167
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938752441a108c6e0800000000000000
+      internalID: -1817200657499326407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_14
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 997
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f445491a6c855e190800000000000000
+      internalID: -7933837558405639089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_15
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 997
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f8d327058c362f0800000000000000
+      internalID: -980720045997060217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_16
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 992
+        width: 186
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371a4a207f355afe0800000000000000
+      internalID: -1178443407121145485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_17
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 958
+        width: 260
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9457dc8966861d0800000000000000
+      internalID: -3357320715736626771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_18
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 958
+        width: 260
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a621b073e8264700800000000000000
+      internalID: 524151363948586660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_19
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 1011
+        width: 197
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24208a2bd8681fa90800000000000000
+      internalID: -7281891179335515582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_20
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 874
+        width: 119
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5717e38ffa5ff2020800000000000000
+      internalID: 2319342469252018549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_21
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 868
+        width: 118
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2e3efedc6416580800000000000000
+      internalID: -8835703143617273183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_22
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 865
+        width: 124
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10ba18bc089062d0800000000000000
+      internalID: -3287460547584675811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_23
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 971
+        width: 203
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a38c0bcd84de1d40800000000000000
+      internalID: 5557112695683842978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 736
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115bbc63d98662350800000000000000
+      internalID: 5991591378701497617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_25
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 736
+        width: 122
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c7f59da903601a0800000000000000
+      internalID: -6843729142112879598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_26
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 736
+        width: 100
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2bcfb86f5d00f1b0800000000000000
+      internalID: -5624981231155295441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_27
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 347
+        width: 914
+        height: 607
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eac0fdbd72d38ee0800000000000000
+      internalID: -1259932033234187548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_28
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 433
+        width: 404
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b79d6f71958659b0800000000000000
+      internalID: -5091735468741126217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_29
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 649
+        width: 70
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d61dd021f9b64640800000000000000
+      internalID: 5063939276314318544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_30
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 646
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c06bda83b7c6660800000000000000
+      internalID: 7380409372716174361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_31
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 646
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737f8961e0f5a37c0800000000000000
+      internalID: -4090852797399369929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_32
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 649
+        width: 87
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcb25cc7f44f5ee0800000000000000
+      internalID: -1270220738819605289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_33
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 547
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f36f77ba2b39c20800000000000000
+      internalID: 3212107408767074079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_34
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 548
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96cbfa2e54f178e0800000000000000
+      internalID: -1697306899256719713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_35
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 549
+        width: 83
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c46a11d804f4b90800000000000000
+      internalID: -7255509500039902056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_36
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 597
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87e6a51f09a4d9b0800000000000000
+      internalID: -5056230599377361011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_37
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 598
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a23ffe10416b590800000000000000
+      internalID: -7658912117743736174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_38
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 575
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4115ba41030ca3b30800000000000000
+      internalID: 4267934909624701204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_39
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 576
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7396777c6d5f66270800000000000000
+      internalID: 8243546470766569783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_40
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 552
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 157fb6dfb2e9183e0800000000000000
+      internalID: -2053186043331741871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_41
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 554
+        width: 52
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a09491ef11f47910800000000000000
+      internalID: 1834356067477524644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_42
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 441
+        width: 35
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3293b9a2cbb7e2f0800000000000000
+      internalID: -943579152165662147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_43
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 438
+        width: 88
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b861657c49ecf600800000000000000
+      internalID: 503533772954757299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_44
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 448
+        width: 81
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f85eefb8c6838c0800000000000000
+      internalID: -4019343318895456469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_45
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 449
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b37d435dc68faa70800000000000000
+      internalID: 8840432809975575477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_46
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 348
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f6a75155bf46270800000000000000
+      internalID: 8242989560845987622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_47
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 341
+        width: 65
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89f98ac436505080800000000000000
+      internalID: -9200759253981595254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 348
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496b383bd0eb4afb0800000000000000
+      internalID: -4637372750229162348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_49
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 362
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b0387fba7714780800000000000000
+      internalID: -8700541424627414200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_50
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 351
+        width: 23
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3355fefba49c9420800000000000000
+      internalID: 2638146948170076991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_51
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 342
+        width: 83
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b378126b0079340800000000000000
+      internalID: 4870362304271039279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_52
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 252
+        width: 176
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49929fc9e44d30eb0800000000000000
+      internalID: -4754723347466999404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_53
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 252
+        width: 176
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb4bd3626fcd4cb0800000000000000
+      internalID: -4878014799883318346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_54
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 235
+        width: 60
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb88cc9c64ba5d60800000000000000
+      internalID: 7879808876617960396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_55
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 242
+        width: 84
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e82a768eecc7060800000000000000
+      internalID: 6952659422319644239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_56
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 242
+        width: 91
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0f4479f6057d7c0800000000000000
+      internalID: -4046677299959631670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_57
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 236
+        width: 50
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ba91003794be170800000000000000
+      internalID: 8208735504084609891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_58
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 106
+        width: 848
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227ef1e75b5911210800000000000000
+      internalID: 1301986374024423202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_59
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 120
+        width: 441
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a572a65d874d970800000000000000
+      internalID: 8778774431656270410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_60
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 145
+        width: 74
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91134e27b5688240800000000000000
+      internalID: 4794193640765460894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_61
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 163
+        width: 66
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ba95ae878b1c320800000000000000
+      internalID: 2576543291299965712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_62
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 148
+        width: 76
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1a359f434891cf0800000000000000
+      internalID: -281048138677771812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_63
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 148
+        width: 78
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83706376f1ed8ce0800000000000000
+      internalID: -1401215460428450931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_64
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 55
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677985354864ca3e0800000000000000
+      internalID: -2041178996957735050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_65
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 49
+        width: 82
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583f82970612620e0800000000000000
+      internalID: -2295110261865385083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_66
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 49
+        width: 71
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88adb723222afcc50800000000000000
+      internalID: 6687742239428041352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_67
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 50
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6645429999cbdc0800000000000000
+      internalID: -3621851117294164226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkblueGUI_68
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 10
+        width: 440
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a2100f3877759f0800000000000000
+      internalID: -479783426740639218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 27098a3646859e94499df77f775c1ccb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      darkblueGUI_0: 1496664481522749700
+      darkblueGUI_1: 802753105717278912
+      darkblueGUI_10: -7495928152958323556
+      darkblueGUI_11: 8301984231849386938
+      darkblueGUI_12: 8766695448224802457
+      darkblueGUI_13: -1817200657499326407
+      darkblueGUI_14: -7933837558405639089
+      darkblueGUI_15: -980720045997060217
+      darkblueGUI_16: -1178443407121145485
+      darkblueGUI_17: -3357320715736626771
+      darkblueGUI_18: 524151363948586660
+      darkblueGUI_19: -7281891179335515582
+      darkblueGUI_2: -4532888728360278908
+      darkblueGUI_20: 2319342469252018549
+      darkblueGUI_21: -8835703143617273183
+      darkblueGUI_22: -3287460547584675811
+      darkblueGUI_23: 5557112695683842978
+      darkblueGUI_24: 5991591378701497617
+      darkblueGUI_25: -6843729142112879598
+      darkblueGUI_26: -5624981231155295441
+      darkblueGUI_27: -1259932033234187548
+      darkblueGUI_28: -5091735468741126217
+      darkblueGUI_29: 5063939276314318544
+      darkblueGUI_3: 7361534528547650502
+      darkblueGUI_30: 7380409372716174361
+      darkblueGUI_31: -4090852797399369929
+      darkblueGUI_32: -1270220738819605289
+      darkblueGUI_33: 3212107408767074079
+      darkblueGUI_34: -1697306899256719713
+      darkblueGUI_35: -7255509500039902056
+      darkblueGUI_36: -5056230599377361011
+      darkblueGUI_37: -7658912117743736174
+      darkblueGUI_38: 4267934909624701204
+      darkblueGUI_39: 8243546470766569783
+      darkblueGUI_4: -3934001502679866355
+      darkblueGUI_40: -2053186043331741871
+      darkblueGUI_41: 1834356067477524644
+      darkblueGUI_42: -943579152165662147
+      darkblueGUI_43: 503533772954757299
+      darkblueGUI_44: -4019343318895456469
+      darkblueGUI_45: 8840432809975575477
+      darkblueGUI_46: 8242989560845987622
+      darkblueGUI_47: -9200759253981595254
+      darkblueGUI_48: -4637372750229162348
+      darkblueGUI_49: -8700541424627414200
+      darkblueGUI_5: -5681341101539892662
+      darkblueGUI_50: 2638146948170076991
+      darkblueGUI_51: 4870362304271039279
+      darkblueGUI_52: -4754723347466999404
+      darkblueGUI_53: -4878014799883318346
+      darkblueGUI_54: 7879808876617960396
+      darkblueGUI_55: 6952659422319644239
+      darkblueGUI_56: -4046677299959631670
+      darkblueGUI_57: 8208735504084609891
+      darkblueGUI_58: 1301986374024423202
+      darkblueGUI_59: 8778774431656270410
+      darkblueGUI_6: 6138418534409450544
+      darkblueGUI_60: 4794193640765460894
+      darkblueGUI_61: 2576543291299965712
+      darkblueGUI_62: -281048138677771812
+      darkblueGUI_63: -1401215460428450931
+      darkblueGUI_64: -2041178996957735050
+      darkblueGUI_65: -2295110261865385083
+      darkblueGUI_66: 6687742239428041352
+      darkblueGUI_67: -3621851117294164226
+      darkblueGUI_68: -479783426740639218
+      darkblueGUI_7: -5236135030923355854
+      darkblueGUI_8: 5342058835986240642
+      darkblueGUI_9: 6022993778297867190
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
